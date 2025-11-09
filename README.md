@@ -36,7 +36,6 @@
 ## My Skill Set  
 
 <div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://vitejs.dev/logo.svg" alt="Vite" height="50" style="margin:10px" />
