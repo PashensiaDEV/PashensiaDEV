@@ -33,36 +33,70 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set
 
-<div align="center">
+<p align="center">
+  <!-- Core -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux Toolkit" />
+  </a>
+  <a href="https://reactrouter.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="45" alt="React Router" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vite/646CFF" height="45" alt="Vite" />
+  </a>
+  <a href="https://webpack.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="45" alt="Webpack" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="SCSS / SASS" />
+  </a>
+</p>
 
-<!-- Core -->
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="48" alt="React"/>
-<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="48" alt="Redux Toolkit"/>
-<img src="https://profilinator.rishav.dev/skills-assets/reactrouter.png" height="48" alt="React Router"/>
-<img src="https://vitejs.dev/logo.svg" height="48" alt="Vite"/>
-<img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" height="48" alt="Webpack"/>
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="48" alt="TypeScript"/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="48" alt="JavaScript"/>
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="48" alt="HTML5"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="48" alt="CSS3"/>
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="48" alt="SCSS / SASS"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css-modules.svg" height="48" alt="CSS Modules"/>
+<p align="center">
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" alt="GitHub Actions" />
+  </a>
+  <a href="https://storybook.js.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/storybook/FF4785" height="45" alt="Storybook" />
+  </a>
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="45" alt="Cypress" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/jest/C21325" height="45" alt="Jest" />
+  </a>
+  <a href="https://eslint.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="45" alt="ESLint" />
+  </a>
+  <a href="https://prettier.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="45" alt="Prettier" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="Figma" />
+  </a>
+</p>
 
-<br /><br />
-
-<!-- Tools -->
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="48" alt="Git"/>
-<img src="https://profilinator.rishav.dev/skills-assets/github-actions.svg" height="48" alt="GitHub Actions"/>
-<img src="https://profilinator.rishav.dev/skills-assets/storybook-icon.svg" height="48" alt="Storybook"/>
-<img src="https://profilinator.rishav.dev/skills-assets/cypress-icon.svg" height="48" alt="Cypress"/>
-<img src="https://profilinator.rishav.dev/skills-assets/jest.svg" height="48" alt="Jest"/>
-<img src="https://profilinator.rishav.dev/skills-assets/eslint.svg" height="48" alt="ESLint"/>
-<img src="https://profilinator.rishav.dev/skills-assets/prettier.png" height="48" alt="Prettier"/>
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="48" alt="Figma"/>
-
-</div>
 
 
 
